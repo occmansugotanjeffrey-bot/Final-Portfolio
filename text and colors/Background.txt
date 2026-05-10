@@ -1,0 +1,50 @@
+Background
+#f9f7f4
+Page bg, warm off-white
+
+White
+#ffffff
+Cards, nav, form inputs
+
+Text / Primary
+#1a1a1a
+Headings, body text
+
+Muted
+#888888
+Subtitles, labels
+
+Accent Green
+#2d6a4f
+Tags, hover states, links
+
+Border
+#e5e0d8
+Lines, dividers, inputs
+
+FONT LINK
+
+https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Sans:wght@300;400;500&display=swap
+
+DM SANS AND DM SANS Display
+
+<link rel="preconnect" href="https://googleapis.com">
+<link rel="preconnect" href="https://gstatic.com" crossorigin>
+<link href="https://googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+
+
+Web Design (HTML & CSS)
+I create clean and responsive website designs using HTML and CSS, focusing on simple layouts that are easy to navigate and visually appealing.
+Landing Page Design
+I design modern landing pages for businesses, school projects, or personal brands that highlight key information and attract attention.
+UI/UX Design (Figma)
+I build user interface designs in Figma, making sure the layout is user-friendly and organized before development.
+Website Redesign
+I help improve existing websites by updating their layout, colors, and structure to make them look more modern and professional.
+
+SCREEN SIZES
+
+@media (max-width: 768px) { }   /* mobile */
+@media (max-width: 1024px) { }  /* tablet */
+@media (max-width: 1440px) { }  /* laptop */
+
